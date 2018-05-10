@@ -28,3 +28,6 @@ This C++ program is processed as follows:
  8. write the banks monthly service fee report to the output file
  9. write a message to the console screen indicating the name of the file to which te service fee report has been written 
     
+*Note: do not use loops other than the do-while loop indicated, arrays, structures, or classes 
+*Note: use named constants where appropriate 
+*Note: be sure to use code to verify that the output file opens 
